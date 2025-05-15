@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwissArmy</string>
+    <string name="hint_write_message">Escribe un mensaje ...</string>
+</resources>

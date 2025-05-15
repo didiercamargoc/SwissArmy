@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "815443811216",
+    "project_id": "swissarmy-8cdab",
+    "storage_bucket": "swissarmy-8cdab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815443811216:android:d28419a353120d3fd03115",
+        "android_client_info": {
+          "package_name": "com.coding.swissarmy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCC0A0eNjGLka4ixHT64d_bLCXCEDEeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

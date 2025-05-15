@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/chatFragment"
+    android:id="@+id/nav_graph">
+
+    <fragment
+        android:id="@+id/chatFragment"
+        android:name="com.coding.swissarmy.chatModule.view.ChatFragment"
+        android:label="Chat" />
+
+    <fragment
+        android:id="@+id/sortFilesFragment"
+        android:name="com.coding.swissarmy.sortFilesModule.view.SortFilesFragment"
+        android:label="Sort Files" />
+
+    <fragment
+        android:id="@+id/chronometerFragment"
+        android:name="com.coding.swissarmy.chronometerModule.view.ChronometerFragment"
+        android:label="Chronometer" />
+
+</navigation>

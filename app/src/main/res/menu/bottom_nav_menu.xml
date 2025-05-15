@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/chatFragment"
+        android:icon="@drawable/ic_chat"
+        android:title="Chat" />
+    <item
+        android:id="@+id/sortFilesFragment"
+        android:icon="@drawable/ic_sort_files"
+        android:title="Buscar" />
+    <item
+        android:id="@+id/chronometerFragment"
+        android:icon="@drawable/ic_chronometer"
+        android:title="Cronómetro" />
+</menu>

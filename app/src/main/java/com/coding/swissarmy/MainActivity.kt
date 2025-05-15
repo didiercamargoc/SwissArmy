@@ -35,7 +35,7 @@ class MainActivity : AppCompatActivity(){
     }
 
     private fun gitYeah(){
-        Log.d(TAG, "Git Yeahhhh")
+        Log.d(TAG, "Git Yeahhhh ahhhhh malditos Thundercaaattsss")
     }
 
 }

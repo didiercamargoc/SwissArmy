@@ -30,4 +30,8 @@ class MainActivity : AppCompatActivity(){
         Log.d(TAG, "Another function Git with changes")
     }
 
+    private fun anooooootherFuncionGit(){
+        Log.d(TAG, "Another function Git with changes")
+    }
+
 }

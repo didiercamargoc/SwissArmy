@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity(){
     }
 
     private fun anotherFunctionGit(){
-        Log.d(TAG, "Another function Git")
+        Log.d(TAG, "Another function Git with changes")
     }
 
 }

@@ -38,4 +38,8 @@ class MainActivity : AppCompatActivity(){
         Log.d(TAG, "Git Yeahhhh ahhhhh malditos Thundercaaattsss")
     }
 
+    private fun gitStashhh(){
+        Log.d(TAG, "Git Stashhh")
+    }
+
 }
